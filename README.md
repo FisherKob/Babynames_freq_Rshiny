@@ -9,7 +9,7 @@
 3) Allow the user to choose a range of years they would like to display.
 4) Allow the user to filter by sex.
 
-Here is the link to the website:[Babynames] (https://fisherkob.shinyapps.io/babynames/?fbclid=IwAR3A-qGU-XqScVQdxjKR73YcPOIrCNw9jEgRAuoSe7gLgZ-aOZ9mKdNPcpA)
+Here is the link to the website: [Babynames](https://fisherkob.shinyapps.io/babynames/?fbclid=IwAR3A-qGU-XqScVQdxjKR73YcPOIrCNw9jEgRAuoSe7gLgZ-aOZ9mKdNPcpA)
 
 
 
