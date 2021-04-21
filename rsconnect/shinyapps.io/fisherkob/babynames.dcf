@@ -1,0 +1,13 @@
+name: babynames
+title: babynames
+username:
+account: fisherkob
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4009856
+bundleId: 4502243
+url: https://fisherkob.shinyapps.io/babynames/
+when: 1619043879.95113
+lastSyncTime: 1619043879.95114
+asMultiple: FALSE
+asStatic: FALSE
